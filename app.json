@@ -1,0 +1,63 @@
+{
+  "name": "Telegraph Bot",
+  "description": "Telegram bot to upload media to Telegra.ph",
+  "logo": "data:image/png;base64,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",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "repository": "https://github.com/RishBropromax/Telegraph-Bot",
+  "addons": [
+    {
+       "options": {
+          "version": "12"
+       },
+       "plan": "heroku-postgresql"
+    }
+  ],
+
+  "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Obtain a Telegram bot token by contacting @BotFather",
+      "required": true,
+      "value": ""
+    },
+    "MUST_JOIN": {
+      "description": "Not compulsory. Obtain your Telegram Chat's username/id",
+      "required": false,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Obtain your Telegram ID",
+      "required": true,
+      "value": ""
+    }
+
+  }
+}
