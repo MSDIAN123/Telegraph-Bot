@@ -1,6 +1,7 @@
 # Telegraph-Bot
 This Bot Can give Telegraph Link For Your Photos. Enjoyi This Bot
 
+<p align="center"><a href="https://github.com/RishBropromax/String-Session-Generating-Bot"><img src="https://telegra.ph/images/logo.png" width="200"></a></p>
 
 <br><br><h2 >  🚀 Heroku Deployment </h2>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RishBropromax/Telegraph-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p><br><br>
